@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/spec/tls/0/hosts/0",
-        "value": "shubham2.demo.agileguru.org" 
+        "value": "shubham.demo.agileguru.org" 
     }
 ]
