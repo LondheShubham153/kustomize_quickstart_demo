@@ -2,11 +2,11 @@
     {
         "op": "replace",
         "path": "/spec/rules/0/host",
-        "value": "dev.agileguru.org" // Change the host here and remove this comment
+        "value": "shubham.demo.agileguru.org" 
     },
     {
         "op": "replace",
         "path": "/spec/tls/0/hosts/0",
-        "value": "dev.agileguru.org" // Change the host here and remove this comment
+        "value": "shubham2.demo.agileguru.org" 
     }
 ]
