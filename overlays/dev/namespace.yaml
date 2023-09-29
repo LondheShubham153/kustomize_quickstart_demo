@@ -2,6 +2,6 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: dev
+  name: shubham
   labels:
-    name: dev-environment
+    name: shubham-environment
