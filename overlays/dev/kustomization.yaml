@@ -3,7 +3,7 @@ kind: Kustomization
 metadata:
   name: dev-overlay
 
-namespace: dev
+namespace: shubham
 
 resources:
   - namespace.yaml
